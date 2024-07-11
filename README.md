@@ -1,5 +1,7 @@
 # Git Vizualizer
 
+Learned from [flaviocopes](https://flaviocopes.com/go-git-contributions/)
+
 Welcome to **Git Vizualizer**, a project that allows you to visualize your local Git repository contributions using the Go programming language. This tool generates a graphical representation of your commit history, helping you track your contributions over time.
 
 ## Table of Contents
